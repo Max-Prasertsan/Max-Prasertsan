@@ -38,4 +38,4 @@ AI Engineer | Web3 | Automation & Trustworthy AI Systems
 - Twitter/X: https://x.com/MaxPrasertsan
 - Email: pakkaphon@live.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Prasertsan&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Prasertsan&layout=compact)
