@@ -3,7 +3,10 @@
 AI Engineer | Web3 | Automation & Trustworthy AI Systems
 
 # 💫 About Me:
-- AI Engineer at KRNL Labs<br>- Focused on AI agents, RAG systems, and blockchain-anchored AI governance<br>- Experience designing production-grade automation, not demos<br>- Background in Computer Science (MEng)<br>
+- AI Engineer at KRNL Labs<br>
+- Focused on AI agents, RAG systems, and blockchain-anchored AI governance<br>
+- Experience designing production-grade automation, not demos<br>
+- Background in Computer Science (MEng)<br>
 
 
 ## 🌐 Socials:
